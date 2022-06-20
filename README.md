@@ -1,8 +1,12 @@
 # **NYC Bikesharing**
 
 ##**Links to my Tableau Public**
+
 Bikesharing NYC Storyboard: https://public.tableau.com/app/profile/sarah.humphrey5731/viz/NYC_Bikesharring_Challenge/Story1
+
 Dashboard: https://public.tableau.com/app/profile/sarah.humphrey5731
+
+
 ##**Resources**
 Data Sources: 201908-citibike-tripdata.csv
 Tableau Desktop 2022.1.2
