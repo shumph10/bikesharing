@@ -51,7 +51,8 @@ Overall, the following trends were found when studying the bike share data. Most
 
 Additional visualizations could be created to show the relationship between bike usage by ID in the most popular start/stop areas. Rotation of these bikes to less popular areas could potentially reduce the amount of repairs needed in high demand areas. Rides per station id could be visualized to show the number of rides at the most and least popular stations. 
 
-
+##**Contact:**
+- sarahhumphrey2016@outlook.com
 
 
 
