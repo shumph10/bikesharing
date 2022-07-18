@@ -1,19 +1,27 @@
 # **NYC Bikesharing**
+In depth analysis of a company's bikesharing data from summer in New York City was done in attempt to understand trends in rides and demographics.
+
+------------------------------------------
 
 ##**Links to my Tableau Public**
 
-Bikesharing NYC Storyboard: https://public.tableau.com/app/profile/sarah.humphrey5731/viz/NYC_Bikesharring_Challenge/Story1
+[Bikesharing NYC Storyboard](https://public.tableau.com/app/profile/sarah.humphrey5731/viz/NYC_Bikesharring_Challenge/Story1)
 
-Dashboard: https://public.tableau.com/app/profile/sarah.humphrey5731
+[Dashboard](https://public.tableau.com/app/profile/sarah.humphrey5731)
 
+------------------------------------------
 
 ##**Resources**
 Data Sources: 201908-citibike-tripdata.csv
 Tableau Desktop 2022.1.2
 Visual Studio Code version 1.68.1
 
+------------------------------------------
+
 ##**Overview**
 In depth analysis of a company's bikesharing data from summer in New York City was done in attempt to understand trends in rides and demographics. Trends would be used to predict customer use and need in a similar business model in a different city. The summer was chosen as it was thought to be the best example of a busy time, showing the most availability the new company would need. The type of user based on age and gender was analyzed for potential input in observed trends. The use of bikes was analyzed to show the number of bikes used, where the most popular bikesharing locations were, and which bikes would likely need repair more often due to higher use. 
+
+------------------------------------------
 
 ##**Results**
 
@@ -45,16 +53,20 @@ In depth analysis of a company's bikesharing data from summer in New York City w
 
 ![bike_usage_by_ID](https://user-images.githubusercontent.com/100040705/174521907-dad06fbc-388d-430a-888d-6e96d0f2fb5c.png)
 
+------------------------------------------
+
 ##**Summary**
 
 Overall, the following trends were found when studying the bike share data. Most rides will be under 20 minutes, this could mean serveral trips could be completed by a bike in a day which is promising for higher revenue with low supplies in the beginning stages of the new company. Males tend to encompase a large portion of users, so advertisements could either focus on women to expand the groups usage, or on marketing that connects to men to establish the same customer base in the new location. Majority of rides occur around the times that people would be going to or getting off work. The total number of bikes needed would have to be large enough to support user need during these times are they are the busiest. Repairs should additionally be avoided at these times to avoid unneccessary loss of high profit times. There are popular locations for start/stop of rides. These locations may be connected to high concentration of office or business areas as people go to work or neighborhoods and apartments as people come home. Similar areas should be attempted to be identified in the new business area so the high demand areas can have adequate supplies of bikes. Popular ride starting/stopping location tend to be similar so the company should not have to worry about transporting bikes back to start areas to ensure supply.  
 
 Additional visualizations could be created to show the relationship between bike usage by ID in the most popular start/stop areas. Rotation of these bikes to less popular areas could potentially reduce the amount of repairs needed in high demand areas. Rides per station id could be visualized to show the number of rides at the most and least popular stations. 
 
-##**Contact:**
-- sarahhumphrey2016@outlook.com
+------------------------------------------
 
+##**Contact Me**
 
+Email: sarahhumphrey2016@outlook.com </br>
+[LinkedIn](https://www.linkedin.com/in/sarah-humphrey-data-analyst/)
 
 
 
